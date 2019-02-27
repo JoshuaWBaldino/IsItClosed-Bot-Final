@@ -1,2 +1,2 @@
 # IsItClosed-Bot-Final
-This a collaboration work with other programmers that takes the restaurant times from the first bot and adds more detailed locations, pictures and a tipping program all inside one package.
+While working with other programmers, we enhanced the Is It Closed Bot to be more in-depth with its description of each restaurant, while also adding in a image of the location and a tip bot that could calculate a tip based on the percent you wanted to tip as well as based off of what state you were in.
